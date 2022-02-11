@@ -1,6 +1,6 @@
 {
   "name": "vmess or vles",
-  "description": "vmess or vles",
+  "description": "vmess or vless",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/string11/happy-active",
+  "repository": "https://github.com/string11/happy-active",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
